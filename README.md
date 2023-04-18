@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 🤝 I’m looking for help with **Spigot**
+- 🤝 I’m looking for help with **Spigot, Java**
 
 - 📫 How to reach me **dikica1235@gmail.com**
 
